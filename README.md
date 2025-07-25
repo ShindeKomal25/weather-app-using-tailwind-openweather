@@ -111,8 +111,7 @@ weather-app/
 ├── src/                      # Source code
 │   ├── components/
 │   ├── hooks/
-│   ├── services/
-│   └── images/
+│   └── services/
 ├── tailwind.config.js
 ├── postcss.config.js
 ├── .env
