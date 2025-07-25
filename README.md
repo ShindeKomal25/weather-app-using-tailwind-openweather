@@ -19,8 +19,8 @@ A responsive, modern weather application built with **React**, **Tailwind CSS**,
 ## 📸 Screenshots
 
 <!-- You can add screenshots here -->
-<img src="screenshots/desktop.png" alt="Desktop View" width="600"/>
-<img src="screenshots/mobile.png" alt="Mobile View" width="300"/>
+<img src="Images/input.png" alt="Input View" width="600"/>
+<img src="Images/output.png" alt="Output View" width="300"/>
 
 ---
 
