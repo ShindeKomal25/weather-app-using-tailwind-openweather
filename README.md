@@ -20,7 +20,7 @@ A responsive, modern weather application built with **React**, **Tailwind CSS**,
 
 <!-- You can add screenshots here -->
 <img src="Images/input.png" alt="Input View" width="600"/>
-<img src="Images/output.png" alt="Output View" width="300"/>
+<img src="Images/output.png" alt="Output View" width="600"/>
 
 ---
 
