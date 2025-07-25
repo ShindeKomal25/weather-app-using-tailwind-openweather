@@ -1,0 +1,35 @@
+.scrollbar-hide::-webkit-scrollbar{
+    display: none;
+}
+
+.scrollbar-hide{
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.hourly-card {
+  background: linear-gradient(145deg, #f0f4ff, #d0d9ff);
+  box-shadow:
+    3px 3px 6px rgba(0, 0, 0, 0.1),
+    -3px -3px 6px rgba(255, 255, 255, 0.7);
+  border-radius: 16px;
+  padding: 12px;
+  min-width: 90px;
+  text-align: center;
+  color: #1a202c; /* dark text */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: default;
+}
+
+.hourly-card:hover {
+  transform: scale(1.05);
+  box-shadow:
+    6px 6px 12px rgba(0, 0, 0, 0.15),
+    -6px -6px 12px rgba(255, 255, 255, 0.9);
+}
+
+.hourly-card img {
+  filter: drop-shadow(0 0 4px rgba(0, 0, 0, 0.3));
+  width: 48px;
+  margin: 8px auto;
+}
